@@ -27,7 +27,7 @@ ng generate --help
 ```
 
 ## Demo
-<img width="1920" height="730" alt="image" src="https://github.com/user-attachments/assets/98a25cb2-828d-4258-b7bc-94623dd1d8e2" />
+<img width="1920" height="900" alt="image" src="https://github.com/user-attachments/assets/98a25cb2-828d-4258-b7bc-94623dd1d8e2" />
 
 ## Building
 
