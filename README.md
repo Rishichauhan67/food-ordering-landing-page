@@ -26,6 +26,9 @@ For a complete list of available schematics (such as `components`, `directives`,
 ng generate --help
 ```
 
+## Demo
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/98a25cb2-828d-4258-b7bc-94623dd1d8e2" />
+
 ## Building
 
 To build the project run:
